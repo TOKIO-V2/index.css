@@ -1,0 +1,45 @@
+header, footer{
+    background-color: coral;
+}
+
+
+main, body{
+    background-color: antiquewhite;
+}
+
+.titlePrincipal{
+    text-align: center;
+    font-size: 40;
+    font-family: monospace;
+}
+
+.titleSecundary{
+    text-align: right;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+
+.breakingNews{
+    width: 200px;
+}
+
+ol{
+    background-color: blueviolet;
+}
+
+ul{
+    background-color: chocolate;
+}
+
+.firstListUl{
+        background-color: blue;
+}
+
+.secondListUl{
+        background-color: aqua;
+}
+
+.thirdListUl{
+    background-color: chartreuse;
+}
